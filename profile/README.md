@@ -10,7 +10,7 @@ Each component has its own code repository. Code repositories are private for no
 |---|---|---|
 | `mach4-trees` | tree-stem CH₄/CO₂ fluxes (LI-7810, goFlux) | rebuilt from raw data |
 | `mach4-soil` | soil collars, riparian gradient, repeated collars, substrates | rebuilt from raw data |
-| `mach4-common` | shared site/tree/sample metadata, instrument registry, shared helpers | planned |
+| `mach4-common` | shared helpers (R package `mach4common`), tree master list, campaign calendar, instrument registry | built |
 | `mach4-diffusion` | floating chambers and dissolved-gas syringes | planned |
 | `mach4-bubbles` | ebullition traps and bubble composition | planned |
 | `mach4-isotopes` | δ¹³C-CH₄ sampling and analyses | planned |
