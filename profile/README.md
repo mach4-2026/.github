@@ -12,7 +12,7 @@ Each component has its own code repository. Code repositories are private for no
 | `mach4-soil` | soil collars, riparian gradient, repeated collars, substrates | rebuilt from raw data |
 | `mach4-common` | shared helpers (R package `mach4common`), tree master list, campaign calendar, instrument registry | built |
 | `mach4-diffusion` | floating chambers and dissolved-gas syringes | March 2026 rebuilt from raw data (original method reproduced, plus goFlux fork) |
-| `mach4-bubbles` | ebullition traps and bubble composition | March and May fluxes and all CH₄ content rebuilt (original sheets reproduced, raw LI-7810 injections); July fluxes pending field-note transcription |
+| `mach4-bubbles` | ebullition traps and bubble composition | March, May, July 2026 rebuilt (original sheets reproduced, raw LI-7810 injections, trap-level fluxes incl. July); some raw LI-7810 periods still to export |
 | `mach4-isotopes` | δ¹³C-CH₄ sampling and analyses | planned |
 | `mach4-incubations` | soil/litter incubations, water CH₄ oxidation | planned |
 | `mach4-water-chem` | water chemistry and depth profiles | planned |
