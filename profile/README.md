@@ -14,7 +14,7 @@ Each component has its own code repository. Code repositories are private for no
 | `mach4-diffusion` | floating chambers and dissolved-gas syringes | March 2026 rebuilt from raw data (original method reproduced, plus goFlux fork) |
 | `mach4-bubbles` | ebullition traps and bubble composition | March, May, July 2026 rebuilt (original sheets reproduced, raw LI-7810 injections, trap-level fluxes incl. July); some raw LI-7810 periods still to export |
 | `mach4-isotopes` | δ¹³C-CH₄ sampling and analyses | March–July sheets reproduced; recalibrated and compared |
-| `mach4-incubations` | soil/litter incubations, water CH₄ oxidation | planned |
+| `mach4-incubations` | soil/litter incubations, water CH₄ oxidation | July MPP and leachates reproduced; Picarro run rebuilt from raw; rates pending |
 | `mach4-water-chem` | water chemistry and depth profiles | March and May lab results and May profiles tidied and checked |
 | `mach4-tower` | eddy-covariance tower and profiler | planned |
 | `mach4-docs` | how-to guide for the team | planned |
